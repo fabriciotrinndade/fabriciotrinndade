@@ -1,20 +1,30 @@
-<div align="center">
-  <h1>Hi, I'm Fabricio 👋</h2>
+# Hey There! 👋
+**I'm Fabricio** - I'm a fullstack developer, and Computer Science student.
 
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 1rem;">
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=fabriciotrinndade&show_icons=true&theme=aura&count_private=true" alt="GitHub Stats"/>
-    <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciotrinndade&layout=compact&langs_count=7&theme=aura" alt="Top Languages"/>
-  </div>
- <br>
-  <a href="https://github.com/fabriciotrinndade">
-    <img src="https://github-profile-trophy.vercel.app/?username=fabriciotrinndade&theme=aura&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </a>
-  
-  <div> 
-    <h3>Connect with me</h3>
-  <a href="https://www.linkedin.com/in/fabricio-trindade/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/fabriciotrinndade/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%234D1E63?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/1055639453131092020" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:fabriciotrindade2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-C70C0C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
+Check out my [portfolio](https://fabriciotrindade.com.br).
 
+How to reach me:</br>
+  <a href="mailto:fabriciotrindade2001@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/fabricio-trindade/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/fabriciotrinndade/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+
+My Skills:</br>
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,mongodb,photoshop" />
+
+I’m currently learning:</br>
+  <img src="https://skillicons.dev/icons?i=react,ts,docker,nextjs,expressjs,postgre" />
+    
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/1055639453131092020?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/1055639453131092020)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/1055639453131092020)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/1055639453131092020)](https://dev.discordprofiles.me/openspotify/1055639453131092020)
+
+<details>
+  <summary>Github Stats ⚡</summary>
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=fabriciotrinndade&theme=summer&hide=avatar&screen_effect=true" />
+</details>
+
+    

@@ -7,7 +7,7 @@ My Skills:<br><p>
   <img src="https://skillicons.dev/icons?i=git,github,html,css,js,nodejs,mongodb,photoshop" />
 
 I’m currently learning:<br><p>
-  <img src="https://skillicons.dev/icons?i=react,ts,docker,nextjs,expressjs,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,docker,nextjs,expressjs,postgres,prisma,tailwind" />
 
 <details>
   <summary>Github Stats</summary>
